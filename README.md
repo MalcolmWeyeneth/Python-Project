@@ -23,7 +23,7 @@ Get information from User and Print data on the screen
 Develop a simple game in Python
 
 # Project Structure
-The hands on project on Python 101: Develop Your First Python Program is divided into following tasks:
+Develop Your First Python Program is divided into following tasks:
 
 Task 1: Understand variables assignment
 
