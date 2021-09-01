@@ -1,6 +1,7 @@
 # Python-Project
 Develop your first Python Project
-Please use the excise which should take approximately 2 hours to finish. Before diving into the excise, please take a look at the below objectives:
+
+Please use the  https://github.com/MalcolmWeyeneth/Python-Project/blob/main/Develop%20your%20first%20Python%20Project.ipynb exercise file which should take approximately 2 hours to finish.
 
 # Course Objectives
 I will cover the following objectives:
