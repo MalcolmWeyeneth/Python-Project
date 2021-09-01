@@ -1,7 +1,7 @@
 # Python-Project
 Develop your first Python Project
 
-Please use the  https://github.com/MalcolmWeyeneth/Python-Project/blob/main/Develop%20your%20first%20Python%20Project.ipynb exercise file which should take approximately 2 hours to finish.
+Please use the __Develop your first Python Project.ipynb__ exercise file which should take approximately 2 hours to complete.
 
 # Course Objectives
 I will cover the following objectives:
